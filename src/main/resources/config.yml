@@ -1,0 +1,13 @@
+# Disable message logging when not needed
+#  - true: Log messages sent to every player currently online
+#  - false: Log no messages
+#  - default: false
+isLoggingMessages: false
+
+# Log only the text components rather than all of the JSON values
+#  - text: Only log the text components of the message
+#  - json: Log all of the JSON values of the message
+#  - default: json
+logComponent: json
+
+

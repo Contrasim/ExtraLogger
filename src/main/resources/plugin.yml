@@ -1,0 +1,7 @@
+name: MessageLogger
+version: '${project.version}'
+main: dev.Contrasim.messagelogger.MessageLoggerPlugin
+api-version: 1.13
+prefix: MessageLogger
+authors: [ Contrasim ]
+softdepend: [ ProtocolLib ]
